@@ -2,7 +2,7 @@ from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
 
 print("")
-print("""Welcome To MafiaBot String Session\nGenerator By @H1M4N5HU0P\n\n""")
+print("""Well come to death bot String Session\nGenerator B@death_owner\n\n""")
 print("""Special Thanks To My Buddy Respective HellBot\nOwner @Kraken_The_BadASS\n\n""")
 print("""Enter Your Valid Details To Continue!\n\n """)
 
@@ -23,7 +23,7 @@ while True:
             )
 
             print(
-                "Thanks for Choosing MafiaBot Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
+                "Thanks for Choosing deathBot Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
             )
     except:
         print("")
